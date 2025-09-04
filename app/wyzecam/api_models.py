@@ -15,6 +15,7 @@ MODEL_NAMES = {
     "HL_PAN2": "Pan V2",
     "HL_PAN3": "Pan V3",
     "HL_PANP": "Pan Pro",
+    "HL_PAN4": "Pan V4",
     "HL_CFL2": "Floodlight V2",
     "WYZEDB3": "Doorbell",
     "HL_DB2": "Doorbell V2",
@@ -45,7 +46,7 @@ NO_WEBRTC = {
 # known 2k cameras
 PRO_CAMS = {"HL_CAM3P", "HL_PANP", "HL_CAM4", "HL_DB2", "HL_CFL2"}
 
-PAN_CAMS = {"WYZECP1_JEF", "HL_PAN2", "HL_PAN3", "HL_PANP"}
+PAN_CAMS = {"WYZECP1_JEF", "HL_PAN2", "HL_PAN3", "HL_PANP", "HL_PAN4"}
 
 BATTERY_CAMS = {"WVOD1", "HL_WCO2", "AN_RSCW"}
 
